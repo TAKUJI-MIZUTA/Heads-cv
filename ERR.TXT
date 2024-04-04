@@ -1,0 +1,511 @@
+﻿コンパイル
+  プロジェクトの依存関係を確認中...
+  HD_PARTSBC6.cbproj をビルド中 (Debug, Win32)
+  bcc32 の "Bas_TempDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_TempDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_TempDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] Bas_TempDetails.cpp(1247): W8080 宣言された 'bFlgANSI' は使われていない
+  bcc32 の "Bas_NozzleDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_NozzleDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_NozzleDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  bcc32 の "Bas_FrameDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_FrameDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_FrameDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] Bas_FrameDetails.cpp(1525): W8080 宣言された 'i_Pos' は使われていない
+  [BCC32 警告] Bas_FrameDetails.cpp(3746): W8080 宣言された 'E4Hole' は使われていない
+  [BCC32 警告] Bas_FrameDetails.cpp(3746): W8080 宣言された 'E3Hole' は使われていない
+  [BCC32 警告] Bas_FrameDetails.cpp(3746): W8080 宣言された 'E2Hole' は使われていない
+  [BCC32 警告] Bas_FrameDetails.cpp(3746): W8080 宣言された 'E1Hol' は使われていない
+  bcc32 の "Bas_PressGDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_PressGDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_PressGDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  bcc32 の "HeadsData.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HeadsData.obj -Od -O2 
+    -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve 
+    -wsig -k HeadsData.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  bcc32 の "HDP20.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HDP20.obj -Od -O2 -v 
+    -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig 
+    -k HDP20.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] HDP20.cpp(94): W8057 パラメータ 'Sender' は一度も使用されない
+  [BCC32 警告] HDP20.cpp(990): W8057 パラメータ 'showflg' は一度も使用されない
+  bcc32 の "HD_PARTSBC6.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HD_PARTSBC6.obj -Od 
+    -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve 
+    -wsig -k HD_PARTSBC6.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  bcc32 の "HDPCom.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HDPCom.obj -Od -O2 -v 
+    -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig 
+    -k HDPCom.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] HDPCom.cpp(323): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(346): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(368): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(390): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(413): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(513): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(564): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(1225): W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  [BCC32 警告] HDPCom.cpp(2657): W8080 宣言された 'i_Mojisu' は使われていない
+  [BCC32 警告] HDPCom.cpp(2777): W8080 宣言された 'i_lop' は使われていない
+  [BCC32 警告] HDPCom.cpp(2777): W8004 'i_Yobisu' に代入した値は使われていない
+  [BCC32 警告] HDPCom.cpp(2777): W8004 'i_RecNo' に代入した値は使われていない
+  bcc32 の "DataModule.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\DataModule.obj -Od 
+    -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve 
+    -wsig -k DataModule.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  bcc32 の "Bas_PlateDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_PlateDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_PlateDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] Bas_PlateDetails.cpp(860): W8080 宣言された 'i_Mojisu' は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(2205): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(2226): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(2915): W8057 パラメータ 'ret' は一度も使用されない
+  [BCC32 警告] Bas_PlateDetails.cpp(3144): W8004 'ret' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(3349): W8080 宣言された 'i_Mojisu' は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(3374): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(3377): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(3396): W8057 パラメータ 'bOutMode' は一度も使用されない
+  [BCC32 警告] Bas_PlateDetails.cpp(3585): W8004 'ret' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(4312): W8004 'ret' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(5489): W8004 'iYobiNum4' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(5488): W8004 'iYobiNum3' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(5487): W8004 'iYobiNum2' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(5936): W8004 'ret' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(6243): W8004 'ret' に代入した値は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(6569): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6573): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6602): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6606): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6638): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6642): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6678): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6682): W8071 変換によって有効桁が失われる
+  [BCC32 警告] Bas_PlateDetails.cpp(6706): W8080 宣言された 'i_Mojisu' は使われていない
+  [BCC32 警告] Bas_PlateDetails.cpp(6879): W8004 'ret' に代入した値は使われていない
+  bcc32 の "Bas_AxsrsDetails.cpp" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad 
+    studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program 
+    files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program 
+    Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program 
+    files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad 
+    studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program 
+    files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_AxsrsDetails.obj 
+    -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc 
+    -Ve -wsig -k Bas_AxsrsDetails.cpp 
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  [BCC32 警告] Bas_AxsrsDetails.cpp(4609): W8004 'iCnt' に代入した値は使われていない
+  brcc32 の "HD_PARTSBC6.vrc" コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\cgrc.exe -c65001 HD_PARTSBC6.vrc -foHD_PARTSBC6.res 
+  ilink32 コマンド ライン
+    c:\program files\embarcadero\rad studio\9.0\bin\ilink32.exe -Lobj;"c:\program files\embarcadero\rad studio\9.0\lib\Win32\release\JA";"c:\program 
+    files\embarcadero\rad studio\9.0\lib\debug";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad 
+    studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program 
+    files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad 
+    studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program 
+    files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release";"c:\program files\embarcadero\rad 
+    studio\9.0\lib\win32\release\psdk";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program 
+    Files\Raize\CS5\Lib\RS-XE2\Win32";"C:\Users\Public\Documents\RAD Studio\9.0\DCP" -jobj;"c:\program files\embarcadero\rad 
+    studio\9.0\lib\Win32\release\JA";"c:\program files\embarcadero\rad studio\9.0\lib\debug";"c:\program files\embarcadero\rad studio\9.0\Projects";
+    "c:\program files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad 
+    studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program 
+    files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad 
+    studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release";"c:\program 
+    files\embarcadero\rad studio\9.0\lib\win32\release\psdk";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad 
+    studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32";"C:\Users\Public\Documents\RAD Studio\9.0\DCP" -Iobj -l. -v -Gn 
+    -GA"C:\Users\h18568\AppData\Local\Temp\vfs762A.tmp"="C:\Heads_cv_20140709B\HDP20.dfm" -aa -V5.0 -G8 -Tpe  c0w32 memmgr.lib sysinit.obj 
+    obj\HD_PARTSBC6.obj obj\Bas_AxsrsDetails.obj obj\Bas_FrameDetails.obj obj\Bas_NozzleDetails.obj obj\Bas_PlateDetails.obj obj\Bas_PressGDetails.obj 
+    obj\Bas_TempDetails.obj obj\DataModule.obj obj\HDP20.obj obj\HDPCom.obj obj\HeadsData.obj , .\HD_PARTSBC6.exe , .\HD_PARTSBC6.map , rtl.lib vcl.lib 
+    vclx.lib bdertl.lib dbrtl.lib vcldb.lib import32.lib cp32mt.lib , , HD_PARTSBC6.res HD_PARTSBC6.res 
+  [ILINK32 警告] Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilc: 0x00010000 / 0x08000000
+  [ILINK32 警告] Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ild: 0x00010000 / 0x08000000
+  [ILINK32 警告] Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilf: 0x00010000 / 0x08000000
+  [ILINK32 警告] Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ils: 0x0003b000 / 0x06000000
+  [ILINK32 警告] Warning: unknown heap name   : 0x08000000 / 0x08000000
+  [ILINK32 警告] Warning: エラーが検出されました (LME286)
+  [ILINK32 エラー] Error: リンクを実行できません
+  失敗
+  経過時間: 00:00:15.7
+出力
+  Build started 2014/07/10 10:06:10.
+  __________________________________________________
+  Project "C:\Heads_cv_20140709B\HD_PARTSBC6.cbproj" (Build target(s)):
+  Target CreateProjectDirectories:
+      ディレクトリ "obj\" を作成しています。
+      ディレクトリ "Debug_Build\" を作成しています。
+  Target MakeObjs:
+      Target CppCompile:
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_TempDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_TempDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              Bas_TempDetails.cpp(1247,1): warning W8080: W8080 宣言された 'bFlgANSI' は使われていない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_NozzleDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_NozzleDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_FrameDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_FrameDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              Bas_FrameDetails.cpp(1525,1): warning W8080: W8080 宣言された 'i_Pos' は使われていない
+              Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E4Hole' は使われていない
+              Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E3Hole' は使われていない
+              Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E2Hole' は使われていない
+              Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E1Hol' は使われていない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_PressGDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_PressGDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HeadsData.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k HeadsData.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HDP20.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k HDP20.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              HDP20.cpp(94,1): warning W8057: W8057 パラメータ 'Sender' は一度も使用されない
+              HDP20.cpp(990,1): warning W8057: W8057 パラメータ 'showflg' は一度も使用されない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HD_PARTSBC6.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k HD_PARTSBC6.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\HDPCom.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k HDPCom.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              HDPCom.cpp(323,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(346,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(368,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(390,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(413,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(513,30): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(564,30): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(1225,28): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+              HDPCom.cpp(2657,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+              HDPCom.cpp(2777,1): warning W8080: W8080 宣言された 'i_lop' は使われていない
+              HDPCom.cpp(2777,1): warning W8004: W8004 'i_Yobisu' に代入した値は使われていない
+              HDPCom.cpp(2777,1): warning W8004: W8004 'i_RecNo' に代入した値は使われていない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\DataModule.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k DataModule.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_PlateDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_PlateDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              Bas_PlateDetails.cpp(860,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+              Bas_PlateDetails.cpp(2205,33): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(2226,33): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(2915,1): warning W8057: W8057 パラメータ 'ret' は一度も使用されない
+              Bas_PlateDetails.cpp(3144,1): warning W8004: W8004 'ret' に代入した値は使われていない
+              Bas_PlateDetails.cpp(3349,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+              Bas_PlateDetails.cpp(3374,21): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(3377,21): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(3396,1): warning W8057: W8057 パラメータ 'bOutMode' は一度も使用されない
+              Bas_PlateDetails.cpp(3585,1): warning W8004: W8004 'ret' に代入した値は使われていない
+              Bas_PlateDetails.cpp(4312,1): warning W8004: W8004 'ret' に代入した値は使われていない
+              Bas_PlateDetails.cpp(5489,1): warning W8004: W8004 'iYobiNum4' に代入した値は使われていない
+              Bas_PlateDetails.cpp(5488,1): warning W8004: W8004 'iYobiNum3' に代入した値は使われていない
+              Bas_PlateDetails.cpp(5487,1): warning W8004: W8004 'iYobiNum2' に代入した値は使われていない
+              Bas_PlateDetails.cpp(5936,1): warning W8004: W8004 'ret' に代入した値は使われていない
+              Bas_PlateDetails.cpp(6243,1): warning W8004: W8004 'ret' に代入した値は使われていない
+              Bas_PlateDetails.cpp(6569,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6573,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6602,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6606,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6638,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6642,25): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6678,21): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6682,21): warning W8071: W8071 変換によって有効桁が失われる
+              Bas_PlateDetails.cpp(6706,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+              Bas_PlateDetails.cpp(6879,1): warning W8004: W8004 'ret' に代入した値は使われていない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+          Target _CppCoreCompile:
+              c:\program files\embarcadero\rad studio\9.0\bin\bcc32.exe -D_DEBUG;NO_STRICT;;NO_STRICT; -nobj -I"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\vcl";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl\JA";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39\boost\tr1\tr1";"C:\Program Files\Embarcadero\RAD Studio\9.0\include\boost_1_39";"c:\program files\embarcadero\rad studio\9.0\include";"c:\program files\embarcadero\rad studio\9.0\include\dinkumware";"c:\program files\embarcadero\rad studio\9.0\include\windows\crtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\sdk";"c:\program files\embarcadero\rad studio\9.0\include\windows\rtl";"c:\program files\embarcadero\rad studio\9.0\include\windows\vcl";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32" -y -c -tM -tW -Vo -Hc -C8 -oobj\Bas_AxsrsDetails.obj -Od -O2 -v -vi- -H=Debug_Build\HD_PARTSBC6.pch -H  -tWM -wpin -wdef -wstl -wamp -wuse -wbbf -wcln -wucp -wstv -wnak -Vx -wnod -wamb -wstu -wasm -wprc -Ve -wsig -k Bas_AxsrsDetails.cpp 
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+              c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+              Bas_AxsrsDetails.cpp(4609,1): warning W8004: W8004 'iCnt' に代入した値は使われていない
+          Done building target "_CppCoreCompile" in project "HD_PARTSBC6.cbproj".
+      Done building target "CppCompile" in project "HD_PARTSBC6.cbproj".
+      Target RcCompile:
+          Target BuildVersionResource:
+              c:\program files\embarcadero\rad studio\9.0\bin\cgrc.exe -c65001 HD_PARTSBC6.vrc -foHD_PARTSBC6.res 
+              CodeGear Resource Compiler/Binder
+              Version 1.2.2 Copyright (c) 2008-2012 Embarcadero Technologies Inc.
+              
+              Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
+              
+              Copyright (C) Microsoft Corporation.  All rights reserved.
+              
+              
+              ファイル "HD_PARTSBC6.vrc" を削除しています。
+  Done building target "MakeObjs" in project "HD_PARTSBC6.cbproj".
+  Target _PerformLink:
+      c:\program files\embarcadero\rad studio\9.0\bin\ilink32.exe -Lobj;"c:\program files\embarcadero\rad studio\9.0\lib\Win32\release\JA";"c:\program files\embarcadero\rad studio\9.0\lib\debug";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release\psdk";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32";"C:\Users\Public\Documents\RAD Studio\9.0\DCP" -jobj;"c:\program files\embarcadero\rad studio\9.0\lib\Win32\release\JA";"c:\program files\embarcadero\rad studio\9.0\lib\debug";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\Projects";"c:\program files\embarcadero\rad studio\9.0\Projects\Lib";"c:\program files\embarcadero\rad studio\9.0\lib\obj";"c:\program files\embarcadero\rad studio\9.0\lib";"c:\program files\embarcadero\rad studio\9.0\lib\psdk";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release";"c:\program files\embarcadero\rad studio\9.0\lib\win32\release\psdk";"C:\Program Files\FastReports\LibD16";"c:\program files\embarcadero\rad studio\9.0\RaveReports\Lib";"C:\Program Files\Raize\CS5\Lib\RS-XE2\Win32";"C:\Users\Public\Documents\RAD Studio\9.0\DCP" -Iobj -l. -v -Gn -GA"C:\Users\h18568\AppData\Local\Temp\vfs762A.tmp"="C:\Heads_cv_20140709B\HDP20.dfm" -aa -V5.0 -G8 -Tpe  c0w32 memmgr.lib sysinit.obj obj\HD_PARTSBC6.obj obj\Bas_AxsrsDetails.obj obj\Bas_FrameDetails.obj obj\Bas_NozzleDetails.obj obj\Bas_PlateDetails.obj obj\Bas_PressGDetails.obj obj\Bas_TempDetails.obj obj\DataModule.obj obj\HDP20.obj obj\HDPCom.obj obj\HeadsData.obj , .\HD_PARTSBC6.exe , .\HD_PARTSBC6.map , rtl.lib vcl.lib vclx.lib bdertl.lib dbrtl.lib vcldb.lib import32.lib cp32mt.lib , , HD_PARTSBC6.res HD_PARTSBC6.res 
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilc: 0x00010000 / 0x08000000
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ild: 0x00010000 / 0x08000000
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilf: 0x00010000 / 0x08000000
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ils: 0x0003b000 / 0x06000000
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: unknown heap name   : 0x08000000 / 0x08000000
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: エラーが検出されました (LME286)
+      c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets(2422,5): error : Error: リンクを実行できません
+  Done building target "_PerformLink" in project "HD_PARTSBC6.cbproj" -- FAILED.
+  Done building project "HD_PARTSBC6.cbproj" -- FAILED.
+  Build FAILED.
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  Bas_TempDetails.cpp(1247,1): warning W8080: W8080 宣言された 'bFlgANSI' は使われていない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  Bas_FrameDetails.cpp(1525,1): warning W8080: W8080 宣言された 'i_Pos' は使われていない
+  Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E4Hole' は使われていない
+  Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E3Hole' は使われていない
+  Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E2Hole' は使われていない
+  Bas_FrameDetails.cpp(3746,1): warning W8080: W8080 宣言された 'E1Hol' は使われていない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  HDP20.cpp(94,1): warning W8057: W8057 パラメータ 'Sender' は一度も使用されない
+  HDP20.cpp(990,1): warning W8057: W8057 パラメータ 'showflg' は一度も使用されない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  HDPCom.cpp(323,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(346,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(368,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(390,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(413,29): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(513,30): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(564,30): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(1225,28): warning W8104: W8104 マルチスレッド アプリケーションのコンストラクタでローカル静的変数を使うことは危険
+  HDPCom.cpp(2657,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+  HDPCom.cpp(2777,1): warning W8080: W8080 宣言された 'i_lop' は使われていない
+  HDPCom.cpp(2777,1): warning W8004: W8004 'i_Yobisu' に代入した値は使われていない
+  HDPCom.cpp(2777,1): warning W8004: W8004 'i_RecNo' に代入した値は使われていない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  Bas_PlateDetails.cpp(860,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+  Bas_PlateDetails.cpp(2205,33): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(2226,33): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(2915,1): warning W8057: W8057 パラメータ 'ret' は一度も使用されない
+  Bas_PlateDetails.cpp(3144,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  Bas_PlateDetails.cpp(3349,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+  Bas_PlateDetails.cpp(3374,21): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(3377,21): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(3396,1): warning W8057: W8057 パラメータ 'bOutMode' は一度も使用されない
+  Bas_PlateDetails.cpp(3585,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  Bas_PlateDetails.cpp(4312,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  Bas_PlateDetails.cpp(5489,1): warning W8004: W8004 'iYobiNum4' に代入した値は使われていない
+  Bas_PlateDetails.cpp(5488,1): warning W8004: W8004 'iYobiNum3' に代入した値は使われていない
+  Bas_PlateDetails.cpp(5487,1): warning W8004: W8004 'iYobiNum2' に代入した値は使われていない
+  Bas_PlateDetails.cpp(5936,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  Bas_PlateDetails.cpp(6243,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  Bas_PlateDetails.cpp(6569,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6573,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6602,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6606,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6638,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6642,25): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6678,21): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6682,21): warning W8071: W8071 変換によって有効桁が失われる
+  Bas_PlateDetails.cpp(6706,1): warning W8080: W8080 宣言された 'i_Mojisu' は使われていない
+  Bas_PlateDetails.cpp(6879,1): warning W8004: W8004 'ret' に代入した値は使われていない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\Projects' が見つかりません - パスはオプション '-I' では無視されます
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning W8123: W8123 パス 'c:\program files\embarcadero\rad studio\9.0\include\vcl' が見つかりません - パスはオプション '-I' では無視されます
+  Bas_AxsrsDetails.cpp(4609,1): warning W8004: W8004 'iCnt' に代入した値は使われていない
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilc: 0x00010000 / 0x08000000
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ild: 0x00010000 / 0x08000000
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ilf: 0x00010000 / 0x08000000
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: C:/Heads_cv_20140709B/obj/HD_PARTSBC6.ils: 0x0003b000 / 0x06000000
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: unknown heap name   : 0x08000000 / 0x08000000
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets : warning : Warning: エラーが検出されました (LME286)
+  c:\program files\embarcadero\rad studio\9.0\Bin\CodeGear.Cpp.Targets(2422,5): error : Error: リンクを実行できません
+      95 Warning(s)
+      1 Error(s)
+  Time Elapsed 00:00:13.67

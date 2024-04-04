@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Bas_AxsrsDetails.cpp"/>
+    <File Path="Bas_FrameDetails.cpp"/>
+    <File Path="Bas_NozzleDetails.cpp"/>
+    <File Path="Bas_PlateDetails.cpp"/>
+    <File Path="Bas_PressGDetails.cpp"/>
+    <File Path="Bas_TempDetails.cpp"/>
+    <File Path="DataModule.cpp"/>
+    <File Path="DataModule.cpp"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="DataModule.h"/>
+    <File Path="HDP20.cpp"/>
+    <File Path="HDP20.cpp"/>
+    <File Path="HDP20.dfm"/>
+    <File Path="HDP20.h"/>
+    <File Path="HDPCom.cpp"/>
+    <File Path="HDPConst.h"/>
+    <File Path="HDPValue.h"/>
+    <File Path="HD_PARTSBC6.cpp"/>
+    <File Path="HD_PARTSBC6.otares"/>
+    <File Path="HD_PARTSBC6.res"/>
+    <File Path="HeadsData.cpp"/>
+    <File Path="HeadsData.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,246 @@
+Error 00001. 0x310000 (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x00589B30(=HD_PARTSBC6.exe:0x01:188B30)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00002. 0x310000 (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x00589B3F(=HD_PARTSBC6.exe:0x01:188B3F)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00003. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x00589B9E(=HD_PARTSBC6.exe:0x01:188B9E)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00004. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x00589BAD(=HD_PARTSBC6.exe:0x01:188BAD)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00005. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x00589C0C(=HD_PARTSBC6.exe:0x01:188C0C)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00006. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x00589C1B(=HD_PARTSBC6.exe:0x01:188C1B)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00007. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x00589C7A(=HD_PARTSBC6.exe:0x01:188C7A)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00008. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x00589C89(=HD_PARTSBC6.exe:0x01:188C89)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00009. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x00589CE8(=HD_PARTSBC6.exe:0x01:188CE8)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00010. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x00589CF7(=HD_PARTSBC6.exe:0x01:188CF7)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00011. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x0059FCD3(=HD_PARTSBC6.exe:0x01:19ECD3)
+   0x0058F86C(=HD_PARTSBC6.exe:0x01:18E86C)
+   0x00589E5B(=HD_PARTSBC6.exe:0x01:188E5B)
+   0x00589CFE(=HD_PARTSBC6.exe:0x01:188CFE)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00012. 0x310000 (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059FE1B(=HD_PARTSBC6.exe:0x01:19EE1B)
+   0x0058F86C(=HD_PARTSBC6.exe:0x01:18E86C)
+   0x00589E5B(=HD_PARTSBC6.exe:0x01:188E5B)
+   0x00589CFE(=HD_PARTSBC6.exe:0x01:188CFE)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00013. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x00599225(=HD_PARTSBC6.exe:0x01:198225)
+   0x0058FB91(=HD_PARTSBC6.exe:0x01:18EB91)
+   0x00589E5B(=HD_PARTSBC6.exe:0x01:188E5B)
+   0x00589CFE(=HD_PARTSBC6.exe:0x01:188CFE)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00014. 0x310000 (r) (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0059988C(=HD_PARTSBC6.exe:0x01:19888C)
+   0x0058CBF5(=HD_PARTSBC6.exe:0x01:18BBF5)
+   0x00589EAC(=HD_PARTSBC6.exe:0x01:188EAC)
+   0x00589CFE(=HD_PARTSBC6.exe:0x01:188CFE)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Error 00015. 0x310000 (Thread 0x1A98):
+Bad parameter: A bad file stream (0x0) has been passed to the function.
+fclose(0x00000000) 
+
+Call Tree:
+   0x0058CC01(=HD_PARTSBC6.exe:0x01:18BC01)
+   0x00589EAC(=HD_PARTSBC6.exe:0x01:188EAC)
+   0x00589CFE(=HD_PARTSBC6.exe:0x01:188CFE)
+   0x0071AF93(=HD_PARTSBC6.exe:0x01:319F93)
+   0x0071ABD7(=HD_PARTSBC6.exe:0x01:319BD7)
+   0x007255F1(=HD_PARTSBC6.exe:0x01:3245F1)
+   0x004046E5(=HD_PARTSBC6.exe:0x01:0036E5)
+   0x00825ECF(=HD_PARTSBC6.exe:0x01:424ECF)
+
+------------------------------------------
+Functions called:
+ fflush (4 times)
+ delete (21 times)
+ fclose (15 times)
+ fopen (15 times)
+ stat (2 times)
+ SysAllocMem (11 times)
+ SysReallocMem (70 times)
+ SysFreeMem (1474 times)
+ SysGetMem (1464 times)
+ free (22 times)
+ _lsetlocale (6 times)
+ new (30 times)
+ calloc (9 times)
+ strlen (102 times)
+ realloc (3 times)
+ strdup (5 times)
+ malloc (7 times)
+ memcpy (37 times)
+Resource types used:
+ object (30 allocs, 30 max)
+ memory block (1497 allocs, 532 max)
+Modules used:
+ 00400000 05/14/2019 12:32:40
+ D:\SOC\Heads-cv_64\HeadsÅ]cv_TEST_OUYO_201905\HD_PARTSBC6.exe
+==========================================

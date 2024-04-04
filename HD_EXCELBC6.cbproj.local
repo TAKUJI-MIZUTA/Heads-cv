@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ModelSupport_HD_EXCELBC6"/>
+    <File Path="ModelSupport_HD_EXCELBC6\default.txaPackage"/>
+    <File Path="ModelSupport_HD_EXCELBC6\default.txvpck"/>
+    <File Path="Profiling"/>
+    <File Path="Profiling\AQtimeModule1.aqt"/>
+    <File Path="Bas_Buhinhyou.cpp"/>
+    <File Path="Bas_Funeyou.cpp"/>
+    <File Path="Bas_Funeyousinsei.cpp"/>
+    <File Path="Bas_Kobetusinsei.cpp"/>
+    <File Path="Bas_Meisaisyo.cpp"/>
+    <File Path="Bas_Mokuroku.cpp"/>
+    <File Path="Bas_Seisekisyo.cpp"/>
+    <File Path="Bas_ShinseiFaxNK.cpp"/>
+    <File Path="Bas_ShinseiFaxNonNK.cpp"/>
+    <File Path="Bas_ShinseiNK.cpp"/>
+    <File Path="Bas_ShinseiNonNK.cpp"/>
+    <File Path="Bas_ShomeiABS.cpp"/>
+    <File Path="Bas_ShomeiBV.cpp"/>
+    <File Path="Bas_ShomeiLR.cpp"/>
+    <File Path="Bas_ShomeiNK.cpp"/>
+    <File Path="Bas_Sijisyo.cpp"/>
+    <File Path="Bas_Syonin.cpp"/>
+    <File Path="Bas_Youryosyo.cpp"/>
+    <File Path="DataModule.cpp"/>
+    <File Path="DataModule.cpp"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="DataModule.h"/>
+    <File Path="HDP010.cpp"/>
+    <File Path="HDP010.cpp"/>
+    <File Path="HDP010.dfm"/>
+    <File Path="HDP010.h"/>
+    <File Path="HDPCom.cpp"/>
+    <File Path="HDPConst.h"/>
+    <File Path="HDPValue.h"/>
+    <File Path="HD_EXCELBC6.cpp"/>
+    <File Path="HD_EXCELBC6.otares"/>
+    <File Path="HD_EXCELBC6.res"/>
+    <File Path="HeadsData.cpp"/>
+    <File Path="HeadsData.h"/>
+    <File Path="SINSEICom.cpp"/>
+    <File Path="Bas_SijisyoA3.cpp"/>
+    <File Path="Bas_SijisyoA3.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
