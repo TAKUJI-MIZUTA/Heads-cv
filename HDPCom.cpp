@@ -2261,6 +2261,33 @@ int __fastcall Syukei_Buhin_Yobisu(AnsiString a_Katasiki, AnsiString a_Zaisitu,
             s_Yobi_Text[3] = token[11]; // 予備品ﾃﾞｰﾀ 材質コード( 1011, ... )
 
             // 検索ｷｰ生成
+            ////////////////////////////////////////////////////
+
+                      //2025
+
+
+    G_Log_Text = "s_Yobi_Text[1]『" + s_Yobi_Text[1] + "』をセット。";
+    Write_Log(G_Log_Text);
+    G_Log_Text = "s_Yobi_Text[2]『" + s_Yobi_Text[2] + "』をセット。";
+    Write_Log(G_Log_Text);
+    G_Log_Text = "s_Yobi_Text[3]『" + s_Yobi_Text[3] + "』をセット。";
+    Write_Log(G_Log_Text);
+    G_Log_Text = "s_Yobi_Text[4]『" + s_Yobi_Text[4] + "』をセット。";
+    Write_Log(G_Log_Text);
+
+    G_Log_Text = "a_Katasiki『" + a_Katasiki + "』をセット。";
+    Write_Log(G_Log_Text);
+
+
+  //  G_Log_Text = "ﾌﾟﾚｰﾄ本体ﾃﾞｰﾀ  08 １台分数量            『" + AnsiString(P_Suryo) +
+  //      "』をセット。";
+  //  Write_Log(G_Log_Text);
+
+
+
+
+
+            ////////////////////////////////////////////////////
             if (AllNumChk(s_Yobi_Text[1].c_str(), 0) == 0) {
                 int i_No;
 
@@ -2274,6 +2301,19 @@ int __fastcall Syukei_Buhin_Yobisu(AnsiString a_Katasiki, AnsiString a_Zaisitu,
                 // ｱﾙﾌｧﾍﾞｯﾄもしくはNULLだった場合 検索しない?
                 // ********************************************
                 s_YBKey = "";
+                // 2025.10.16 ZEX-20M追加_S
+
+
+
+
+
+                if ( s_Yobi_Text[1] == "A3") {
+                    s_YBKey = s_Yobi_Text[0] + "A3";
+                }
+
+
+
+                // 2025.10.16 ZEX-20M追加_E
             }
 
             if (s_YBKey != "\0") {

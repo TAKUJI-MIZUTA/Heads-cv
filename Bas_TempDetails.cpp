@@ -1787,7 +1787,9 @@ AnsiString __fastcall TTempDetails::Search_HD_TEMP(AnsiString a_SE,
             P_Yobisu = i_wYobi;
             break;
         case 10: // I型舶用温度計
-        case 11: // L型舶用温度計
+        // 2025.12.04 舶用温度計仕様変更_S
+        //case 11: // L型舶用温度計
+        // 2025.12.04 舶用温度計仕様変更_E
             P_Siyou = P_Siyou + s_Memori;
             // 2012.01.20 舶用ｽﾁｰﾑ温度計追加
             ////2009.02.16 温度計ｻｲｽﾞ追加
@@ -1820,11 +1822,20 @@ AnsiString __fastcall TTempDetails::Search_HD_TEMP(AnsiString a_SE,
             }
             else {
                 if (i_Kikaku == 1) { // ANSI
-                    if (s_FrngSize.ToDouble() <= 2) {
+                    // 2025.12.04 舶用温度計仕様変更_S
+                    if (s_FrngSize.ToDouble() <= 1) {
+                        P_Siyou2 = "40L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 2) {
+                    //if (s_FrngSize.ToDouble() <= 2) {
+                    // 2025.12.04 舶用温度計仕様変更_E
                         P_Siyou2 = "60L ";
                     }
                     else if (s_FrngSize.ToDouble() <= 4) {
-                        P_Siyou2 = "85L ";
+                        // 2025.12.04 舶用温度計仕様変更_S
+                        //P_Siyou2 = "85L ";
+                        P_Siyou2 = "90L ";
+                        // 2025.12.04 舶用温度計仕様変更_E
                     }
                     else if (s_FrngSize.ToDouble() <= 14) {
                         P_Siyou2 = "120L ";
@@ -1841,17 +1852,29 @@ AnsiString __fastcall TTempDetails::Search_HD_TEMP(AnsiString a_SE,
                         //if (s_PressGCode == "16" || s_PressGCode == "17") {
                         if ( s_PressGCode == "17") {
                         // 2020.06.03 温度計変更_E
-                            P_Siyou2 = "85L 100A";
+                            // 2025.12.04 舶用温度計仕様変更_S
+                            //P_Siyou2 = "85L 100A";
+                            P_Siyou2 = "90L 100A";
+                            // 2025.12.04 舶用温度計仕様変更_E
                         }
                     }
                     // 2020.01.14 ﾘﾝｸﾞ端管変更_E
                 }
                 else {
-                    if (s_FrngSize.ToDouble() <= 50) {
+                    // 2025.12.04 舶用温度計仕様変更_S
+                    if (s_FrngSize.ToDouble() <= 25) {
+                        P_Siyou2 = "40L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 50) {
+                    //if (s_FrngSize.ToDouble() <= 50) {
+                    // 2025.12.04 舶用温度計仕様変更_E
                         P_Siyou2 = "60L ";
                     }
                     else if (s_FrngSize.ToDouble() <= 100) {
-                        P_Siyou2 = "85L ";
+                        // 2025.12.04 舶用温度計仕様変更_S
+                        //P_Siyou2 = "85L ";
+                        P_Siyou2 = "90L ";
+                        // 2025.12.04 舶用温度計仕様変更_E
                     }
                     else if (s_FrngSize.ToDouble() <= 350) {
                         P_Siyou2 = "120L ";
@@ -1866,7 +1889,10 @@ AnsiString __fastcall TTempDetails::Search_HD_TEMP(AnsiString a_SE,
                         //if (s_PressGCode == "16" || s_PressGCode == "17") {
                         if ( s_PressGCode == "17") {
                         // 2020.06.03 温度計変更_E
-                            P_Siyou2 = "85L 100A";
+                            // 2025.12.04 舶用温度計仕様変更_S
+                            //P_Siyou2 = "85L 100A";
+                             P_Siyou2 = "90L 100A";
+                            // 2025.12.04 舶用温度計仕様変更_E
                         }
                     }
                     // 2020.01.14 ﾘﾝｸﾞ端管変更_E
@@ -1886,6 +1912,65 @@ AnsiString __fastcall TTempDetails::Search_HD_TEMP(AnsiString a_SE,
             // *************************
             P_Yobisu = i_wYobi;
             break;
+        // 2025.12.04 舶用温度計仕様変更_S
+        case 11: // L型舶用温度計
+             P_Siyou = P_Siyou + s_Memori;
+            if (Key == "10" || Key == "11") {
+                P_Siyou2 = "35L 25A";
+            }
+            else {
+                if (i_Kikaku == 1) { // ANSI
+                    if (s_FrngSize.ToDouble() <= 1) {
+                        P_Siyou2 = "35L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 2) {
+                        P_Siyou2 = "55L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 4) {
+                        P_Siyou2 = "85L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 14) {
+                        P_Siyou2 = "115L ";
+                    }
+                    else {
+                        P_Siyou2 = "";
+                    }
+                    P_Siyou2 =
+                        P_Siyou2 + FormatFloat("0",
+                    s_FrngSize.ToDouble() * 25) + "A";
+                    if (s_FrngSize.ToDouble() == 2) {
+                        if ( s_PressGCode == "17") {
+                            P_Siyou2 = "85L 100A";
+                        }
+                    }
+                }
+                else {
+                    if (s_FrngSize.ToDouble() <= 25) {
+                        P_Siyou2 = "35L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 50) {
+                        P_Siyou2 = "55L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 100) {
+                        P_Siyou2 = "85L ";
+                    }
+                    else if (s_FrngSize.ToDouble() <= 350) {
+                        P_Siyou2 = "115L ";
+                    }
+                    else {
+                        P_Siyou2 = "";
+                    }
+                    P_Siyou2 = P_Siyou2 + s_FrngSize + "A";
+                    if (s_FrngSize.ToDouble() == 50) {
+                        if ( s_PressGCode == "17") {
+                            P_Siyou2 = "85L 100A";
+                        }
+                    }
+                }
+            }
+            P_Yobisu = i_wYobi;
+            break;
+        // 2025.12.04 舶用温度計仕様変更_E
         default:
             break;
         }
@@ -1975,10 +2060,23 @@ bool __fastcall TTempDetails::Write_Temp_Data(AnsiString a_SE) {
     // ***    初回のOPENなので上書きモードで作成
     // **********************************************
     wk_FilePass = G_csv_Output_Dir + "HD_PARTS.csv";
+    // 2025.09.16 数量不正の対応_S
+    //if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
+    //    fclose(wkfp);
+    //    return false;
+    //}
+    Sleep(20);
     if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
         fclose(wkfp);
-        return false;
+        Write_Log("HD_PARTS.csvのopenが失敗しました。");
+        Sleep(500);
+        if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
+            Write_Log("HD_PARTS.csvの再度openが失敗しました。");
+            fclose(wkfp);
+            return false;
+        }
     }
+    // 2025.09.16 数量不正の対応_E
 
     // 1  部品分類
     // 2003.12.11 YX-80追加

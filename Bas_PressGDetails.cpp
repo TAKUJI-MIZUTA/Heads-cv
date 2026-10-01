@@ -2103,10 +2103,23 @@ bool __fastcall TPressGDetails::Write_PressG_Data(AnsiString a_SE) {
     // ***    初回のOPENなので上書きモードで作成
     // **********************************************
     wk_FilePass = G_csv_Output_Dir + "HD_PARTS.csv";
+    // 2025.09.16 数量不正の対応_S
+    //if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
+    //    fclose(wkfp);
+    //    return false;
+    //}
+    Sleep(20);
     if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
         fclose(wkfp);
-        return false;
+        Write_Log("HD_PARTS.csvのopenが失敗しました。");
+        Sleep(500);
+        if ((wkfp = fopen(wk_FilePass.c_str(), "a+")) == NULL) {
+            Write_Log("HD_PARTS.csvの再度openが失敗しました。");
+            fclose(wkfp);
+            return false;
+        }
     }
+    // 2025.09.16 数量不正の対応_E
 
     // 1  部品分類
 
